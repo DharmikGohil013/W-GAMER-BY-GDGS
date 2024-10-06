@@ -16,5 +16,13 @@ nav div{
     padding-top: -70px;
     word-spacing: 50px;
     padding-right: 100px;
-    te
+}
+nav div a{
+    text-decoration: none;  
+    color: black;
+}
+.p{
+    padding-right: 700px;
+    letter-spacing: 10px;
+    font-family: monospace;
 }
